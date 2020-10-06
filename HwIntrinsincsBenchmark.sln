@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HwIntrinsincsBenchmark", "HwIntrinsincsBenchmark\HwIntrinsincsBenchmark.csproj", "{0AB38F87-09BD-450B-BCCE-44E42F9072B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AB38F87-09BD-450B-BCCE-44E42F9072B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB38F87-09BD-450B-BCCE-44E42F9072B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB38F87-09BD-450B-BCCE-44E42F9072B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB38F87-09BD-450B-BCCE-44E42F9072B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52798416-FDCF-465A-B03B-1247D21B65F0}
+	EndGlobalSection
+EndGlobal
